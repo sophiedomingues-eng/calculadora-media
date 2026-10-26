@@ -75,8 +75,8 @@ input:valid, select:valid{
     padding: 14px;
     border: none;
     border-radius: 8px;
-    background: green;
-    color: black;
+    background: #3498db;
+    color: white;
     font-size: 17px;
     font-weight: bold;
     cursor: pointer;
